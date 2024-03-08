@@ -1,0 +1,26 @@
+{
+    "chain_name": "nolus",
+    "api": [
+        {"provider": "Nolus Foundation", "address": "https://pirin-cl.nolus.network:1317"},
+        {"provider": "kjnodes.com 🦄", "address": "https//nolus.api.kjnodes.com"}
+    ],
+    "rpc": [
+        {"provider": "Nolus Foundation", "address": "https://pirin-cl.nolus.network:26657"},
+        {"provider": "kjnodes.com 🦄", "address": "https://nolus.rpc.kjnodes.com"}
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "nolus",
+    "logo": "/logos/nolus.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#ff562d",
+    "assets": [{
+        "base": "unls",
+        "symbol": "NLS",
+        "exponent": "6",
+        "coingecko_id": "nolus",
+        "logo": "/logos/nolus.png"
+    }]
+}

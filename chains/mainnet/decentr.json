@@ -1,0 +1,25 @@
+{
+    "chain_name": "decentr",
+    "api": [
+        {"provider": "Decentr Foundation", "address": "https://rest.mainnet.decentr.xyz"},
+        {"provider": "Inter Blockchain Services", "address": "https://decentr-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Decentr Foundation", "address": "https://poseidon.mainnet.decentr.xyz"},
+        {"provider": "Inter Blockchain Services", "address": "https://decentr-api.ibs.team"}
+    ],
+    "sdk_version": "0.45.9",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "decentr",
+    "logo": "/logos/decentr.svg",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#66a4cd",
+    "assets": [{
+        "base": "udec",
+        "symbol": "DEC",
+        "exponent": "6",
+        "coingecko_id": "decentr",
+        "logo": "/logos/decentr.svg"
+    }]
+}

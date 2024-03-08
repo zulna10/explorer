@@ -1,0 +1,31 @@
+{
+    "chain_name": "planq",
+    "api": [
+        {"provider": "polkachu.com", "address": "https://planq-api.polkachu.com"},
+        {"provider": "Planq Foundation", "address": "https://rest.planq.network"}
+    ],
+    "rpc": [
+        {"provider": "polkachu.com", "address": "https://planq-rpc.polkachu.com"},
+        {"provider": "Planq Foundation", "address": "https://rpc.planq.network"}
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "",
+    "keplr_price_step": {
+        "low": 2400000000000000,
+        "average": 2500000000000000,
+        "high": 4000000000000000
+      },
+    "addr_prefix": "plq",
+    "logo": "/logos/planq.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#3e587b",
+    "assets": [{
+        "base": "aplanq",
+        "symbol": "PLQ",
+        "exponent": "18",
+        "coingecko_id": "planq",
+        "logo": "/logos/planq.png"
+    }]
+}

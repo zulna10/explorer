@@ -1,30 +1,32 @@
 {
     "chain_name": "haqq",
-    "coingecko": "",
-      "api": [
-          {"provider": "Haqq Network", "address": "https://haqq-mainnet-api.itrocket.net"}
-      ],
-      "rpc": [
-          {"provider": "Haqq Network", "address": "https://haqq-mainnet-rpc.itrocket.net"}
-      ],
+    "api": [
+      {"provider": "Haqq Foundation", "address": "https://rest.cosmos.haqq.network"},
+      {"provider": "NodeStake", "address": "https://api.haqq.nodestake.top"}
+    ],
+    "rpc": [
+      {"provider": "Haqq Foundation", "address": "https://rpc.tm.haqq.network"},
+      {"provider": "NodeStake", "address": "https://rpc.haqq.nodestake.top"}
+    ],
     "snapshot_provider": "",
     "sdk_version": "0.46.10",
     "coin_type": "60",
-    "min_tx_fee": "3000000000000000",
+    "min_tx_fee": "",
+    "keplr_price_step": {
+      "low": 2400000000000000,
+      "average": 2500000000000000,
+      "high": 4000000000000000
+    },
     "addr_prefix": "haqq",
     "logo": "/logos/haqq.png",
-    "keplr_features": [
-      "ibc-transfer",
-      "ibc-go",
-      "eth-address-gen",
-      "eth-key-sign"
-    ],
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#df8f4d",
     "assets": [
       {
         "base": "aISLM",
         "symbol": "ISLM",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "islamic-coin",
         "logo": "/logos/haqq.png"
       }
     ]

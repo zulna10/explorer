@@ -1,0 +1,30 @@
+{
+    "chain_name": "dydx",
+    "api": [
+        {"provider": "NodeStake", "address": "https://api.dydx.nodestake.top"},
+        {"provider": "AutoStake 🛡️ Slash Protected", "address": "https://dydx-mainnet-lcd.autostake.com"}
+    ],
+    "rpc": [
+        {"provider": "NodeStake", "address": "https://rpc.dydx.nodestake.top"},
+        {"provider": "AutoStake 🛡️ Slash Protected", "address": "https://dydx-mainnet-rpc.autostake.com"}
+    ],
+    "sdk_version": "0.47.1",
+    "coin_type": "60",
+    "min_tx_fee": "",
+    "keplr_price_step": {
+        "low": 2400000000000000,
+        "average": 2500000000000000,
+        "high": 4000000000000000
+      },
+    "addr_prefix": "dydx",
+    "logo": "/logos/dydx.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#5554cc",
+    "assets": [{
+        "base": "adydx",
+        "symbol": "DYDX",
+        "exponent": "18",
+        "coingecko_id": "dydx",
+        "logo": "/logos/dydx.png"
+    }]
+}
