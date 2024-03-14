@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "celestia",
-    "logo": "/logos/celestia.png",
+    "logo": "https://github.com/ping-pub/ping.pub/blob/main/logos/celestia.png?raw=true",
     "assets": [{
         "base": "utia",
         "symbol": "TIA",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/celestia.png"
+        "logo": "https://github.com/ping-pub/ping.pub/blob/main/logos/celestia.png?raw=true"
     }]
 }
