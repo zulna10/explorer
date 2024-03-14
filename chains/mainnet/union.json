@@ -10,7 +10,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "union",
-    "logo": "/logos/union.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/union.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#202020",
     "assets": [{
@@ -18,6 +18,6 @@
         "symbol": "MUNO",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/union.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/union.png?raw=true"
     }]
 }

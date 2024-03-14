@@ -11,7 +11,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "pryzm",
-    "logo": "/logos/pryzm.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/pryzm.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#202020",
     "assets": [{
@@ -19,6 +19,6 @@
         "symbol": "PRYZM",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/pryzm.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/pryzm.png?raw=true"
     }]
 }

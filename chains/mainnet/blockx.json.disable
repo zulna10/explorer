@@ -16,7 +16,7 @@
       "high": 4000000000000000
     },
     "addr_prefix": "blockx",
-    "logo": "/logos/blockx.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/blockx.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "theme_color": "#176dff",
     "assets": [
@@ -24,7 +24,7 @@
         "base": "abcx",
         "symbol": "BCX",
         "exponent": "18",
-        "logo": "/logos/blockx.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/blockx.png?raw=true"
       }
     ]
   }

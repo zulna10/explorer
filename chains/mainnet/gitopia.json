@@ -15,7 +15,7 @@
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "gitopia",
-    "logo": "/logos/gitopia.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/gitopia.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#411b66",
     "assets": [
@@ -24,7 +24,7 @@
         "symbol": "LORE",
         "exponent": "6",
         "coingecko_id": "gitopia",
-        "logo": "/logos/gitopia.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/gitopia.png?raw=true"
       }
     ]
   }

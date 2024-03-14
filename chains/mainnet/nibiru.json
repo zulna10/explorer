@@ -13,7 +13,7 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "nibi",
-    "logo": "/logos/nibiru.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/nibiru.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#9891f9",
     "assets": [{
@@ -21,6 +21,6 @@
         "symbol": "UNIBI",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/nibiru.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/nibiru.png?raw=true"
     }]
 }

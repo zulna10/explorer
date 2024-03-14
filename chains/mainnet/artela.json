@@ -11,7 +11,7 @@
     "coin_type": "60",
     "min_tx_fee": "5000",
     "addr_prefix": "art",
-    "logo": "/logos/artela.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/artela.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "theme_color": "#4520e6",
     "assets": [
@@ -19,7 +19,7 @@
         "base": "uart",
         "symbol": "ART",
         "exponent": "18",
-        "logo": "/logos/artela.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/artela.png?raw=true"
       }
     ]
   }

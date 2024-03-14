@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "defund",
-    "logo": "/logos/defund.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/defund.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#63d4d7",
     "assets": [{
@@ -15,6 +15,6 @@
         "symbol": "FETF",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/defund.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/defund.png?raw=true"
     }]
 }

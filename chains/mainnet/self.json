@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "self",
-    "logo": "/logos/self.jpg",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/self.jpg?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#6926ff",
     "assets": [{
@@ -15,6 +15,6 @@
         "symbol": "SELF",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/self.jpg"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/self.jpg?raw=true"
     }]
 }

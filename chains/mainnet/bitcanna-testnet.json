@@ -14,7 +14,7 @@
     "coin_type": 118,
     "min_tx_fee": "5000",
     "addr_prefix": "bcna",
-    "logo": "/logos/bitcanna.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/bitcanna.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#3ac294",
     "assets": [{
@@ -22,6 +22,6 @@
         "symbol": "BCNA",
         "exponent": 6,
         "coingecko_id": "bitcanna",
-        "logo": "/logos/bitcanna.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/bitcanna.png?raw=true"
     }]
 }

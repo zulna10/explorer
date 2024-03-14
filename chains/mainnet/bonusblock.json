@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "bonus",
-    "logo": "/logos/bonusblock.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/bonusblock.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#f6bf5a",
     "assets": [{
@@ -15,6 +15,6 @@
         "symbol": "BONUS",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/bonusblock.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/bonusblock.png?raw=true"
     }]
 }

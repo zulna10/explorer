@@ -16,7 +16,7 @@
     "high": 4000000000000000
   },
   "addr_prefix": "zeta",
-  "logo": "/logos/zetachain.png",
+  "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/zetachain.png?raw=true",
   "keplr_features": [
     "ibc-transfer",
     "ibc-go",
@@ -29,7 +29,7 @@
       "symbol": "tZETA",
       "exponent": "18",
       "coingecko_id": "",
-      "logo": "/logos/zetachain.png"
+      "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/zetachain.png?raw=true"
     }
   ],
   "theme_color": "#005741"

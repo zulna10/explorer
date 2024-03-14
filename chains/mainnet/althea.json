@@ -12,7 +12,7 @@
       "high": 4000000000000000
     },
     "addr_prefix": "althea",
-    "logo": "/logos/althea.png",
+    "logo": "https://github.com/ping-pub/ping.pub/blob/main/logos/andromeda.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "theme_color": "#407AA2",
     "assets": [
@@ -20,7 +20,7 @@
         "base": "aalthea",
         "symbol": "ALTHEA",
         "exponent": "18",
-        "logo": "/logos/althea.png"
+        "logo": "https://github.com/ping-pub/ping.pub/blob/main/logos/andromeda.png?raw=true"
       }
     ]
   }

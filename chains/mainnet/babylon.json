@@ -6,7 +6,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "bbn",
-    "logo": "/logos/bbn.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/babylon.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#3b82f4",
     "assets": [{
@@ -14,6 +14,6 @@
         "symbol": "BBN",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/bbn.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/babylon.png?raw=true"
     }]
 }

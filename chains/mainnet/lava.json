@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "lava",
-    "logo": "/logos/lava.jpg", 
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/lava.jpg?raw=true", 
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#d7001f",
     "assets": [{
@@ -15,6 +15,6 @@
         "symbol": "LAVA",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/lava.jpg"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/lava.jpg?raw=true"
     }]
 }
