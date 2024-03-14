@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "elys",
-    "logo": "/logos/elys.png",
+    "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/elys.png?raw=true",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#848484",
     "assets": [{
@@ -15,6 +15,6 @@
         "symbol": "ELYS",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/elys.png"
+        "logo": "https://github.com/nodexemperor/explorer.nodex.one/blob/master/logos/elys.png?raw=true"
     }]
 }
